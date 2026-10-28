@@ -143,8 +143,4 @@ For this team project, my individual contribution focused on the **concurrency a
 - This is an academic database project; it does not include a production web application or booking interface.
 - The supplied records are illustrative sample data.
 - The concurrency demonstrations are documented in the coursework report rather than packaged as an independent script in this repository.
-- MongoDB is represented by screenshot evidence in the current repository; a standalone MongoDB command file would improve reproducibility.
 
-## Repository
-
-**GitHub:** https://github.com/M-Gaber056/flight-booking-database-system
